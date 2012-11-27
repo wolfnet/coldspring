@@ -5,7 +5,7 @@ ColdSpring makes the configuration and dependencies of your CFCs easier to manag
 For more information see http://coldspringframework.org
 
 >### A Note from WolfNet
->We are hosting this repository on our account not becuase it is our project but because we could not find a source respository on GitHub.  Please feel free to fork and contrubite the project but know that version 1.2 is no longer being supported.  For the current version (2.0), which is in Alpha, please see https://github.com/markmandel/coldspring.
+>We are hosting this repository on our account not becuase it is our project but because we could not find a source respository on GitHub.  Please feel free to fork and contribute to the project but know that version 1.2 is no longer being supported.  For the current version (2.0), which is in Alpha, please see https://github.com/markmandel/coldspring.
 
 ## Documentation
 For ColdSpring documentation please see http://coldspringframework.org/index.cfm/go/documentation
