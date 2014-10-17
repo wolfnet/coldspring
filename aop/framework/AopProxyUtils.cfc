@@ -244,8 +244,9 @@
 			<cffile action="write" file="#path#/#tmpFile#" output="#function#" />
 			 <!--- import the file --->
 			 <cfinclude template="#tmpFile#" />
-			 <!--- delete the file --->
+			 <!--- delete the file
 			 <cffile action="delete" file="#path#/#tmpFile#" />
+			 --->
 			 <cfcatch>
 				<!--- <cfif variables.logger.isDebugEnabled()>
 					<cfset variables.logger.error("[coldspring.aop.UdfError] Error reading: Error Loading: #tmptmpFileBean#, #cfcatch.Detail#") />
